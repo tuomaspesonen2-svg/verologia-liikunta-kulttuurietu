@@ -1,7 +1,7 @@
-import TyomatkaetuLaskelma from "./TyomatkaetuLaskelma";
+import LiikuntaKulttuurietuLaskelma from "./LiikuntaKulttuurietuLaskelma";
 
 function App() {
-  return <TyomatkaetuLaskelma />;
+  return <LiikuntaKulttuurietuLaskelma />;
 }
 
 export default App;
